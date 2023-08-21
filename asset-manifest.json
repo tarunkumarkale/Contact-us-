@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Contact-us-/static/css/main.bb707176.css",
+    "main.js": "/Contact-us-/static/js/main.151da152.js",
+    "static/media/ok.mp4": "/Contact-us-/static/media/ok.43838aa178f25922fd1d.mp4",
+    "static/media/photo.png": "/Contact-us-/static/media/photo.273f9b66aa31ee22091e.png",
+    "index.html": "/Contact-us-/index.html",
+    "main.bb707176.css.map": "/Contact-us-/static/css/main.bb707176.css.map",
+    "main.151da152.js.map": "/Contact-us-/static/js/main.151da152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb707176.css",
+    "static/js/main.151da152.js"
+  ]
+}
